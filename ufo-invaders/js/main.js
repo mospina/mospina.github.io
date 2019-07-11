@@ -6291,7 +6291,7 @@ var author$project$Main$update = F2(
 				}
 		}
 	});
-var author$project$Main$assetsDir = '../assets/';
+var author$project$Main$assetsDir = 'assets/';
 var author$project$Main$invaderImage = author$project$Main$assetsDir + 'Nave.png';
 var timjs$elm_collage$Collage$Core$Image = F2(
 	function (a, b) {
